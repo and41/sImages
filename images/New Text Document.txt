@@ -1,5 +1,0 @@
-git init
-git config user.name "and41"
-git config user.email "adufield@yahoo.com"
-git remote set-url origin git@github.com:and41/sImages.git
-git remote set-url origin git@github.com/and41/
