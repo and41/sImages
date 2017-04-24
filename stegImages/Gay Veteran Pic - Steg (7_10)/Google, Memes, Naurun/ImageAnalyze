@@ -1,0 +1,5 @@
+
+File name,Above stego threshold?,Secret message size in bytes (ignore for clean files),Primary Sets,Chi Square,Sample Pairs,RS analysis,Fusion (mean)
+Google.PNG,true,44524,NaN,0.47349812907596484,null,0.061415550242010127,0.2674568396589875
+naurunappula.jpg,true,7919,NaN,0.05838525195744416,0.42220227991274784,0.3229465311830103,0.2678446876844008
+weknowmemes_com.jpg,true,8684,NaN,0.01494407266593703,0.43139737305433284,0.4964725796502791,0.314271341790183

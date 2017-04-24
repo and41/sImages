@@ -1,0 +1,3 @@
+
+File name,Above stego threshold?,Secret message size in bytes (ignore for clean files),Primary Sets,Chi Square,Sample Pairs,RS analysis,Fusion (mean)
+10-dithering-opt.jpg,false,329,0.012432070635492053,7.186119927172711E-4,null,0.004479421619227991,0.005876701415812438

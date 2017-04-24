@@ -1,0 +1,5 @@
+
+File name,Above stego threshold?,Secret message size in bytes (ignore for clean files),Primary Sets,Chi Square,Sample Pairs,RS analysis,Fusion (mean)
+buzzfeed.jpg,false,10121,NaN,0.20530231095085244,null,0.0958105577461523,0.15055643434850235
+pbs_twimg.jpg,true,11574,NaN,0.06141115392124507,null,0.8140808301011335,0.4377459920111893
+Wordpress_Jonathan.jpg,true,7274,NaN,0.12487946960105424,null,0.282829566127337,0.20385451786419562
